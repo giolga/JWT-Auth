@@ -1,7 +1,9 @@
 using JwtAuth.Data;
 using JwtAuth.Models;
+using JwtAuth.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -44,6 +46,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlite("Default");
 });
+
+builder.Services.AddScoped<TokenService>();
+//builder.Services.AddTransient<IEmailSender, FakeEmailSender>();
 
 builder.Services.AddIdentityCore<AppDbContext>(options =>
 {

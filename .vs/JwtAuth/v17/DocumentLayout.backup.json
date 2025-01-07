@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\dtos\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\dtos\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TokenModel.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\TokenModel.cs",
-              "RelativeDocumentMoniker": "JwtAuth\\Models\\TokenModel.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\TokenModel.cs",
-              "RelativeToolTip": "JwtAuth\\Models\\TokenModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Program.cs",
+              "RelativeToolTip": "JwtAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:33:22.135Z",
+              "WhenOpened": "2025-01-06T13:09:24.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PageDto.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\DTOs\\PageDto.cs",
-              "RelativeDocumentMoniker": "JwtAuth\\DTOs\\PageDto.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\DTOs\\PageDto.cs",
-              "RelativeToolTip": "JwtAuth\\DTOs\\PageDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Services\\TokenService.cs",
+              "RelativeToolTip": "JwtAuth\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:30:14.765Z",
+              "WhenOpened": "2025-01-06T13:00:55.768Z",
               "EditorCaption": ""
             }
           ]

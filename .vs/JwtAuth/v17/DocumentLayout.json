@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "JwtAuth\\Program.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Program.cs",
               "RelativeToolTip": "JwtAuth\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T13:09:24.481Z",
               "EditorCaption": ""
@@ -49,7 +53,7 @@
               "RelativeDocumentMoniker": "JwtAuth\\Services\\TokenService.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Services\\TokenService.cs",
               "RelativeToolTip": "JwtAuth\\Services\\TokenService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T13:00:55.768Z",
               "EditorCaption": ""

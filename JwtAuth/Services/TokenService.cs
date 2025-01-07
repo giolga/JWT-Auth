@@ -3,6 +3,7 @@ using JwtAuth.Models;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
 
 namespace JwtAuth.Services
@@ -34,7 +35,19 @@ namespace JwtAuth.Services
 
             return tokenHandler.WriteToken(token);
         }
+        public string GenerateRefreshToken(ApplicationUser user)
+        {
+            var timestamp = DateTimeOffset.UtcNow.AddDays(RefreshTokenExpirationDays).ToUnixTimeSeconds();
+            var tokenData = $"{user.Id}:{timestamp}";
+            var secret = _configuration["JwtTokenSettings:SymmetricSecurityKey"];
 
+            using var hmac = new HMACSHA256(Encoding.UTF8.GetBytes(secret));
+            var hash = hmac.ComputeHash(Encoding.UTF8.GetBytes(tokenData));
+            var signature = Convert.ToBase64String(hash);
+
+            var refreshToken = Convert.ToBase64String(Encoding.UTF8.GetBytes($"{tokenData}:{signature}"));
+            return refreshToken;
+        }
         private JwtSecurityToken CreateJwtToken(List<Claim> claims, SigningCredentials cretentials, DateTime expiration)
         {
             return new JwtSecurityToken(
