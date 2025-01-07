@@ -48,6 +48,40 @@ namespace JwtAuth.Services
             var refreshToken = Convert.ToBase64String(Encoding.UTF8.GetBytes($"{tokenData}:{signature}"));
             return refreshToken;
         }
+
+        public (bool isValid, string userId) ValidateRefreshToken(string refreshToken)
+        {
+            try
+            {
+                var tokenBytes = Convert.FromBase64String(refreshToken);
+                var tokenParts = Encoding.UTF8.GetString(tokenBytes).Split(':');
+
+                if (tokenParts.Length != 3)
+                    return (false, null);
+
+                var userId = tokenParts[0];
+                var timestamp = long.Parse(tokenParts[1]);
+                var providedSignature = tokenParts[2];
+
+                var currentTime = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
+                if (timestamp < currentTime)
+                    return (false, null);
+
+                var tokenData = $"{userId}:{timestamp}";
+                var secret = _configuration["JwtTokenSettings:SymmetricSecurityKey"];
+
+                using var hmac = new HMACSHA256(Encoding.UTF8.GetBytes(secret));
+                var hash = hmac.ComputeHash(Encoding.UTF8.GetBytes(tokenData));
+                var computedSignature = Convert.ToBase64String(hash);
+
+                return (providedSignature == computedSignature, userId);
+            }
+            catch
+            {
+                return (false, null);
+            }
+        }
+
         private JwtSecurityToken CreateJwtToken(List<Claim> claims, SigningCredentials cretentials, DateTime expiration)
         {
             return new JwtSecurityToken(

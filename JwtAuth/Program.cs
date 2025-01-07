@@ -44,13 +44,14 @@ builder.Services.AddSwaggerGen(option =>
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
-    options.UseSqlite("Default");
+    options.UseSqlite(builder.Configuration.GetConnectionString("Default"));
 });
+
 
 builder.Services.AddScoped<TokenService>();
 //builder.Services.AddTransient<IEmailSender, FakeEmailSender>();
 
-builder.Services.AddIdentityCore<AppDbContext>(options =>
+builder.Services.AddIdentityCore<ApplicationUser>(options =>
 {
     options.SignIn.RequireConfirmedAccount = false;
     options.User.RequireUniqueEmail = true;

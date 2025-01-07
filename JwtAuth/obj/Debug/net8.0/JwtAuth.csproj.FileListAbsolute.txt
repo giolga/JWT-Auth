@@ -144,3 +144,9 @@ C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\refint\JwtAuth.dll
 C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\JwtAuth.pdb
 C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\JwtAuth.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\ref\JwtAuth.dll
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\DotNetOpenAuth.Core.dll
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\DotNetOpenAuth.Core.UI.dll
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\DotNetOpenAuth.InfoCard.dll
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\System.Net.Http.WebRequest.dll
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\JwtAuth.sourcelink.json

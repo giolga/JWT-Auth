@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "JwtAuth.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JwtAuth.Models.RegistrationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "JwtAuth.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
