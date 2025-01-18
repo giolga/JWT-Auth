@@ -10,5 +10,10 @@ namespace JwtAuth.Data
         {
             
         }
+        public DbSet<Page> Pages => Set<Page>();
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
     }
 }

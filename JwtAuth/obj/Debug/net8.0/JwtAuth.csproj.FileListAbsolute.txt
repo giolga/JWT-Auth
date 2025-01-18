@@ -150,3 +150,8 @@ C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\DotNetOpenAuth.InfoCard
 C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\DotNetOpenAuth.InfoCard.UI.dll
 C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\System.Net.Http.WebRequest.dll
 C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\JwtAuth.sourcelink.json
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\bin\Debug\net8.0\JwtAuth.staticwebassets.endpoints.json
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\staticwebassets\msbuild.JwtAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\GioLGA\Desktop\JwtAuth\JwtAuth\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Migrations\\20250118181157_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JwtAuth\\Migrations\\20250118181157_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\services\\fakeemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\services\\fakeemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\models\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\models\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\migrations\\20250107165016_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\migrations\\20250107165016_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|c:\\users\\giolga\\desktop\\jwtauth\\jwtauth\\migrations\\20250107164924_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E4B1DC-47CD-49A3-99B4-1CB39028708B}|JwtAuth\\JwtAuth.csproj|solutionrelative:jwtauth\\migrations\\20250107164924_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +66,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -31,25 +83,181 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250118181157_init4.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Migrations\\20250118181157_init4.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Migrations\\20250118181157_init4.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Migrations\\20250118181157_init4.cs",
+              "RelativeToolTip": "JwtAuth\\Migrations\\20250118181157_init4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:11:57.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "JwtAuth\\Controllers\\PagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:00:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Services\\TokenService.cs",
+              "RelativeToolTip": "JwtAuth\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwGAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:48:30.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FakeEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Services\\FakeEmailSender.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Services\\FakeEmailSender.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Services\\FakeEmailSender.cs",
+              "RelativeToolTip": "JwtAuth\\Services\\FakeEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:48:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\TokenModel.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Models\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\TokenModel.cs",
+              "RelativeToolTip": "JwtAuth\\Models\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:48:22.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Models\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\RegistrationRequest.cs",
+              "RelativeToolTip": "JwtAuth\\Models\\RegistrationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:48:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "JwtAuth\\Models\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:47:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Models\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\AuthRequest.cs",
+              "RelativeToolTip": "JwtAuth\\Models\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:47:25.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "JwtAuth\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:47:24.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250107165016_init3.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Migrations\\20250107165016_init3.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Migrations\\20250107165016_init3.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Migrations\\20250107165016_init3.cs",
+              "RelativeToolTip": "JwtAuth\\Migrations\\20250107165016_init3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:50:17.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JwtAuth\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:49:57.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250107164924_init2.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Migrations\\20250107164924_init2.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\Migrations\\20250107164924_init2.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Migrations\\20250107164924_init2.cs",
+              "RelativeToolTip": "JwtAuth\\Migrations\\20250107164924_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:49:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "JwtAuth\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Controllers\\AccountController.cs",
               "RelativeToolTip": "JwtAuth\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwEwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T10:47:42.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Program.cs",
               "RelativeDocumentMoniker": "JwtAuth\\Program.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\JwtAuth\\JwtAuth\\Program.cs",
               "RelativeToolTip": "JwtAuth\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T13:09:24.481Z",
               "EditorCaption": ""
